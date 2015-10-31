@@ -10,7 +10,7 @@ Examples:
 
 
 /* Creates a local storage instance - this is what you need to implement in this exercise */
-storageManager = getStorageManager();
+storageManager = StorageManager();
 Storage manager class
 
 The following functions need to be defined in the storage manager class
